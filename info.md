@@ -52,6 +52,8 @@ git init - инициализация GIT
  code_commit - код коммита к которому хотим перейти. его смотрим через команду git log
 * git checkout master - возврат к прошлому состоянию
 
-i[cfr](i.jpg)
+cat[cartinka](i.jpg)
+
+i[frfr](i.jpg)
 
 
