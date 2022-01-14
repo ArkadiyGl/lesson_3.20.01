@@ -54,6 +54,7 @@ git init - инициализация GIT
 
 cat[cartinka](i.jpg)
 
+
 i[frfr](i.jpg)
 
 
