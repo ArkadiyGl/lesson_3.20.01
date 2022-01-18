@@ -73,3 +73,6 @@ git init - инициализация GIT
 > git checkout branch_name
 
 git log --graph
+
+> checkout - проверка
+
