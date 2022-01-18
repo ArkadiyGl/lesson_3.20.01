@@ -73,3 +73,13 @@ git init - инициализация GIT
 > git checkout branch_name
 
 git log --graph
+
+# Удаление веток
+Для того чтобы удалит ветку с именем branch_name :
+> git branch -d branch_name
+Удалить с игнорированием ошибок
+> git branch -D branch_name
+
+# Слиание веток и решение конфликтов
+чтобы слить информацию из ветки branch_name в текущую :
+> git merge branch_name
