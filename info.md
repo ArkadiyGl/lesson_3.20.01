@@ -74,5 +74,8 @@ git init - инициализация GIT
 
 git log --graph
 
+
+# переводы слов
+
 > checkout - проверка
 
