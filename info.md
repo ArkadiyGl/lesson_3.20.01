@@ -73,3 +73,5 @@ git init - инициализация GIT
 > git checkout branch_name
 
 git log --graph
+
+> branch - ветка,филиал, отделение,ветвь,отдел
