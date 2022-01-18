@@ -52,9 +52,24 @@ git init - инициализация GIT
  code_commit - код коммита к которому хотим перейти. его смотрим через команду git log
 * git checkout master - возврат к прошлому состоянию
 
-cat[cartinka](i.jpg)
+# Изображение
+![название произвольное](вставить относительный путь/relative pass)
 
+![cartinka](i.jpg)
 
-i[frfr](i.jpg)
+![frfr](i.jpg)
 
+![2525](22.jpg)
 
+## Ветки в git
+
+чтобы посмотреть все ветки
+> git branch
+
+Для создания новой ветки с именем branch_name
+> git branch branch_name
+
+Переместиться к ветке с именем branh_name
+> git checkout branch_name
+
+git log --graph
